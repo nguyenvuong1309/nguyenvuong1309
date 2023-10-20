@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vuong</h1>
 <h3 align="center">A passionate developer from UIT</h3>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="nguyenvuong1309" /> </p>
+<p align="left"> <img src="https://iconscout.com/lottie-animation/software-developer-working-at-office-9170966" alt="nguyenvuong1309" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/vngnguync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vngnguync" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vuong1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vuong1309" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
